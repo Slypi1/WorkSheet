@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_8 WorkSheet", "Lesson_8 WorkSheet\Lesson_8 WorkSheet.csproj", "{7F693B53-73D2-409E-9B2C-F75FD28DDDC4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson8 WorkSheet", "Lesson8 WorkSheet", "{800C9F48-7C45-4609-8258-9A38A684E2C4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson8 PhoneBook", "Lesson8 PhoneBook", "{CE291137-6617-4308-B741-04CB3FE22719}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 8 Phone book", "Lesson 8 Phone book\Lesson 8 Phone book.csproj", "{520CDE51-E904-468B-9581-805EBCF99DB4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson8 RepeatCheck", "Lesson8 RepeatCheck", "{8DC1E65D-8D86-47F3-A45A-3BD523C5646D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 8 Repeat Check", "Lesson 8 Repeat Check\Lesson 8 Repeat Check.csproj", "{80B6090A-811F-4651-B900-68018B57A417}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson8 NoteBook", "Lesson8 NoteBook", "{C4FE46D9-AE05-4D1F-A734-71AC86C30306}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 8 Notebook", "Lesson 8 Notebook\Lesson 8 Notebook.csproj", "{E8AD987C-5518-4615-BD22-5BFEE7DD737B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F693B53-73D2-409E-9B2C-F75FD28DDDC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F693B53-73D2-409E-9B2C-F75FD28DDDC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F693B53-73D2-409E-9B2C-F75FD28DDDC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F693B53-73D2-409E-9B2C-F75FD28DDDC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{520CDE51-E904-468B-9581-805EBCF99DB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{520CDE51-E904-468B-9581-805EBCF99DB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{520CDE51-E904-468B-9581-805EBCF99DB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{520CDE51-E904-468B-9581-805EBCF99DB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80B6090A-811F-4651-B900-68018B57A417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80B6090A-811F-4651-B900-68018B57A417}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80B6090A-811F-4651-B900-68018B57A417}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80B6090A-811F-4651-B900-68018B57A417}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8AD987C-5518-4615-BD22-5BFEE7DD737B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8AD987C-5518-4615-BD22-5BFEE7DD737B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8AD987C-5518-4615-BD22-5BFEE7DD737B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8AD987C-5518-4615-BD22-5BFEE7DD737B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7F693B53-73D2-409E-9B2C-F75FD28DDDC4} = {800C9F48-7C45-4609-8258-9A38A684E2C4}
+		{520CDE51-E904-468B-9581-805EBCF99DB4} = {CE291137-6617-4308-B741-04CB3FE22719}
+		{80B6090A-811F-4651-B900-68018B57A417} = {8DC1E65D-8D86-47F3-A45A-3BD523C5646D}
+		{E8AD987C-5518-4615-BD22-5BFEE7DD737B} = {C4FE46D9-AE05-4D1F-A734-71AC86C30306}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00C004FB-3211-45F4-968A-1BEB87D65D2A}
+	EndGlobalSection
+EndGlobal
