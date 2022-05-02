@@ -65,7 +65,7 @@ namespace Lesson_8_Notebook
                 List<Person> person = new List<Person>();
                 string Path = "notebook.xml";
                 AddPerson(person, Path);    
-                Console.Read();
+                Console.ReadKey();
             }
 
         }
