@@ -22,7 +22,7 @@ namespace Lesson_8_Phone_book
             {
                 Console.Write("Введите номер телефона: ");
                 Proverka = Console.ReadLine();
-                if (!(Proverka == " "))
+                if (!(String.IsNullOrWhiteSpace(Proverka)))
         
                 {
                     NumberPhone = Convert.ToInt32(Proverka);

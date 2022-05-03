@@ -21,7 +21,7 @@ namespace Lesson_8_Repeat_Check
             {
                 Console.Write("Введите число: ");
                 Proverka = Console.ReadLine();
-                if (!(Proverka == " "))
+                if (!(String.IsNullOrWhiteSpace(Proverka)))
                 {
                     Number = Convert.ToInt32(Proverka);
                     if (!(data.Contains(Number)))
